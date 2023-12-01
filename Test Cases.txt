@@ -1,0 +1,76 @@
+
+
+
+Here are some test cases for hospitality analytics projects in Power BI: 
+
+Room occupancy, arrival and departure of guests
+Analysis of services opted by guests based on their visit purpose
+Rooms rate and occupancy analysis
+Weekly revenue analysis
+Booking source analysis
+You can use Power BI to create reports for your team about customer engagement statistics. You can also use it to view inventory and manufacturing progress in a real-time dashboard. 
+You can load data into Power BI by: 
+Clicking on "get data"
+Choosing an Excel workbook
+Selecting table number one
+Transforming the data if necessary
+You can also customize your FP&A (Financial Planning & Analytics) and performance management processes in Power BI. 
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Creating test cases for T20 Cricket Analytics in Power BI involves validating various aspects of the analytics tool and ensuring it meets the requirements of cricket data analysis. Here are some sample test cases for T20 Cricket Analytics in Power BI:
+
+Data Validation Test Cases:
+
+Verify that the data imported from different sources (e.g., CSV files, databases) is accurate and complete.
+Check if data cleansing and transformation processes are working correctly.
+Ensure that data refreshes are scheduled and executed as expected.
+
+Dashboard and Visualization Test Cases:
+Test each visual element (charts, graphs, tables) on the dashboard for accuracy and correctness.
+Verify that the visuals are displaying data in real-time or as per the defined update frequency.
+Check for responsiveness across various screen sizes and devices.
+
+Filter and Slicer Test Cases:
+Test the functionality of filters and slicers for different parameters such as teams, players, matches, and date ranges.
+Verify that applying filters updates all related visuals correctly.
+
+Performance Test Cases:
+Check the loading time of the dashboard, especially with a large dataset.
+Verify that the dashboard performs well even with multiple users accessing it simultaneously.
+
+User Authentication and Authorization Test Cases:
+Ensure that only authorized users can access sensitive data or make changes to the analytics tool.
+Test different user roles and permissions to verify their effectiveness.
+
+Data Drill-Down Test Cases:
+Verify that users can drill down into detailed information from summary visuals.
+Check if the drill-down functionality maintains data integrity.
+
+Export and Sharing Test Cases:
+Test the export functionality to ensure users can export data or visuals in different formats (e.g., PDF, Excel).
+Verify that sharing features (e.g., sharing links, embedding) work as expected.
+
+Integration Test Cases:
+Check for integration with other data sources or external systems.
+Verify that any APIs or connectors are functioning correctly.
+
+Error Handling and Recovery Test Cases:
+Test how the system handles errors, such as data source unavailability or network issues.
+Verify that error messages are clear and informative.
+
+Security Test Cases
+Verify that sensitive data is encrypted and secure during transmission and storage.
+Test for vulnerabilities like SQL injection or cross-site scripting.
+
+Cross-Browser and Cross-Platform Compatibility Test Cases:
+Ensure the analytics tool works on different browsers (Chrome, Firefox, Edge) and platforms (Windows, macOS, mobile devices).
+
+Usability and User Experience Test Cases:
+Collect feedback from end-users regarding the tool's usability and user experience.
+Remember that the specific test cases may vary based on the T20 Cricket Analytics project's requirements and the Power BI implementation. It's essential to cover these aspects to ensure a robust and reliable analytics tool.
